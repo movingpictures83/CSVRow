@@ -1,0 +1,2 @@
+Prefix plugins/CSVRow/example
+Plugin CSVRow inputfile sample.csv outputfile rows.txt
